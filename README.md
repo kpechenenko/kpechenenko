@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://kpechenenko.ru/">Kostya</a> 👋</h1>
+<h1 align="left">Hi, I'm Konstantin 👋👨🏻‍💻</h1>
 
-<p align="center">
-  <a href="mailto:kpechenenko@yandex.ru"><img alt="kostya pechenenko | Gmail" title="Mail" height="48" width="48" src="assets/email.png"></a>
-  <a href="https://t.me/kpechenenko"><img alt="kostya pechenenko | Telegram" title="Telegram" height="48" width="48" src="assets/telegram.png"></a>
+<p align="left">
+I am a software engineer who is passionate about software architecture, distributed systems and automation.
 </p>
