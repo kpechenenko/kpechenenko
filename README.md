@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Konstantin 👋👨🏻‍💻</h1>
 
 <p align="left">
-I am a software engineer who is passionate about software architecture, distributed systems and automation.
+<li>Interest in distributed systems.</li>
+<li>Code in golang, python.</li>
 </p>
